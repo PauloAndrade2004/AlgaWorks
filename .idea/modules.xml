@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/2.Começando/02.04-executando-um-programa-simples-no-eclipse/02.04-executando-um-programa-simples-no-eclipse.iml" filepath="$PROJECT_DIR$/2.Começando/02.04-executando-um-programa-simples-no-eclipse/02.04-executando-um-programa-simples-no-eclipse.iml" />
+      <module fileurl="file://$PROJECT_DIR$/2.Começando/02.05-exercicio/02.05-exercicio.iml" filepath="$PROJECT_DIR$/2.Começando/02.05-exercicio/02.05-exercicio.iml" />
+      <module fileurl="file://$PROJECT_DIR$/2.Começando/02.06-elaborando-um-algoritmo-no-eclipse/02.06-elaborando-um-algoritmo-no-eclipse.iml" filepath="$PROJECT_DIR$/2.Começando/02.06-elaborando-um-algoritmo-no-eclipse/02.06-elaborando-um-algoritmo-no-eclipse.iml" />
+      <module fileurl="file://$PROJECT_DIR$/2.Começando/02.07-exercicio/02.07-exercicio.iml" filepath="$PROJECT_DIR$/2.Começando/02.07-exercicio/02.07-exercicio.iml" />
+      <module fileurl="file://$PROJECT_DIR$/3.Variáveis e Constantes/03.01-introducao-a-variaveis/03.01-introducao-a-variaveis.iml" filepath="$PROJECT_DIR$/3.Variáveis e Constantes/03.01-introducao-a-variaveis/03.01-introducao-a-variaveis.iml" />
+      <module fileurl="file://$PROJECT_DIR$/3.Variáveis e Constantes/03.03-tipos-numericos/03.03-tipos-numericos.iml" filepath="$PROJECT_DIR$/3.Variáveis e Constantes/03.03-tipos-numericos/03.03-tipos-numericos.iml" />
+      <module fileurl="file://$PROJECT_DIR$/3.Variáveis e Constantes/03.04-exercicio/03.04-exercicio.iml" filepath="$PROJECT_DIR$/3.Variáveis e Constantes/03.04-exercicio/03.04-exercicio.iml" />
+      <module fileurl="file://$PROJECT_DIR$/3.Variáveis e Constantes/03.05-tipo-texto/03.05-tipo-texto.iml" filepath="$PROJECT_DIR$/3.Variáveis e Constantes/03.05-tipo-texto/03.05-tipo-texto.iml" />
+      <module fileurl="file://$PROJECT_DIR$/3.Variáveis e Constantes/03.06-exercicio/03.06-exercicio.iml" filepath="$PROJECT_DIR$/3.Variáveis e Constantes/03.06-exercicio/03.06-exercicio.iml" />
+      <module fileurl="file://$PROJECT_DIR$/3.Variáveis e Constantes/03.07-tipo-logico/03.07-tipo-logico.iml" filepath="$PROJECT_DIR$/3.Variáveis e Constantes/03.07-tipo-logico/03.07-tipo-logico.iml" />
+      <module fileurl="file://$PROJECT_DIR$/3.Variáveis e Constantes/03.08-exercicio/03.08-exercicio.iml" filepath="$PROJECT_DIR$/3.Variáveis e Constantes/03.08-exercicio/03.08-exercicio.iml" />
+      <module fileurl="file://$PROJECT_DIR$/3.Variáveis e Constantes/03.09-tipos-primitivos/03.09-tipos-primitivos.iml" filepath="$PROJECT_DIR$/3.Variáveis e Constantes/03.09-tipos-primitivos/03.09-tipos-primitivos.iml" />
+      <module fileurl="file://$PROJECT_DIR$/3.Variáveis e Constantes/03.10-alterando-o-valor-de-uma-variavel/03.10-alterando-o-valor-de-uma-variavel.iml" filepath="$PROJECT_DIR$/3.Variáveis e Constantes/03.10-alterando-o-valor-de-uma-variavel/03.10-alterando-o-valor-de-uma-variavel.iml" />
+      <module fileurl="file://$PROJECT_DIR$/3.Variáveis e Constantes/03.11-exercicio/03.11-exercicio.iml" filepath="$PROJECT_DIR$/3.Variáveis e Constantes/03.11-exercicio/03.11-exercicio.iml" />
+      <module fileurl="file://$PROJECT_DIR$/3.Variáveis e Constantes/03.12-constantes/03.12-constantes.iml" filepath="$PROJECT_DIR$/3.Variáveis e Constantes/03.12-constantes/03.12-constantes.iml" />
+      <module fileurl="file://$PROJECT_DIR$/3.Variáveis e Constantes/03.13-exercicio/03.13-exercicio.iml" filepath="$PROJECT_DIR$/3.Variáveis e Constantes/03.13-exercicio/03.13-exercicio.iml" />
+      <module fileurl="file://$PROJECT_DIR$/4.Operadores/04.02-operadores-aritmeticos/04.02-operadores-aritmeticos.iml" filepath="$PROJECT_DIR$/4.Operadores/04.02-operadores-aritmeticos/04.02-operadores-aritmeticos.iml" />
+      <module fileurl="file://$PROJECT_DIR$/4.Operadores/04.03-exercicio/04.03-exercicio.iml" filepath="$PROJECT_DIR$/4.Operadores/04.03-exercicio/04.03-exercicio.iml" />
+      <module fileurl="file://$PROJECT_DIR$/4.Operadores/04.04-operadores-relacionais/04.04-operadores-relacionais.iml" filepath="$PROJECT_DIR$/4.Operadores/04.04-operadores-relacionais/04.04-operadores-relacionais.iml" />
+      <module fileurl="file://$PROJECT_DIR$/4.Operadores/04.05-exercicio/04.05-exercicio.iml" filepath="$PROJECT_DIR$/4.Operadores/04.05-exercicio/04.05-exercicio.iml" />
+      <module fileurl="file://$PROJECT_DIR$/4.Operadores/04.06-operadores-de-atribuicao/04.06-operadores-de-atribuicao.iml" filepath="$PROJECT_DIR$/4.Operadores/04.06-operadores-de-atribuicao/04.06-operadores-de-atribuicao.iml" />
+      <module fileurl="file://$PROJECT_DIR$/4.Operadores/04.07-exercicio/04.07-exercicio.iml" filepath="$PROJECT_DIR$/4.Operadores/04.07-exercicio/04.07-exercicio.iml" />
+      <module fileurl="file://$PROJECT_DIR$/4.Operadores/04.08-operadores-logicos/04.08-operadores-logicos.iml" filepath="$PROJECT_DIR$/4.Operadores/04.08-operadores-logicos/04.08-operadores-logicos.iml" />
+      <module fileurl="file://$PROJECT_DIR$/4.Operadores/04.09-exercicio/04.09-exercicio.iml" filepath="$PROJECT_DIR$/4.Operadores/04.09-exercicio/04.09-exercicio.iml" />
+      <module fileurl="file://$PROJECT_DIR$/4.Operadores/04.10-concatenacao-de-textos/04.10-concatenacao-de-textos.iml" filepath="$PROJECT_DIR$/4.Operadores/04.10-concatenacao-de-textos/04.10-concatenacao-de-textos.iml" />
+      <module fileurl="file://$PROJECT_DIR$/4.Operadores/04.11-operadores-de-incremento-e-decremento/04.11-operadores-de-incremento-e-decremento.iml" filepath="$PROJECT_DIR$/4.Operadores/04.11-operadores-de-incremento-e-decremento/04.11-operadores-de-incremento-e-decremento.iml" />
+      <module fileurl="file://$PROJECT_DIR$/5.2_Estrutura_De_Decisao/5.2_Estrutura_De_Decisao.iml" filepath="$PROJECT_DIR$/5.2_Estrutura_De_Decisao/5.2_Estrutura_De_Decisao.iml" />
+      <module fileurl="file://$PROJECT_DIR$/5.Estrutura de Decisão/5.Estrutura de Decisão.iml" filepath="$PROJECT_DIR$/5.Estrutura de Decisão/5.Estrutura de Decisão.iml" />
+      <module fileurl="file://$PROJECT_DIR$/curso-logica-de-programacao-com-java.iml" filepath="$PROJECT_DIR$/curso-logica-de-programacao-com-java.iml" />
+    </modules>
+  </component>
+</project>
