@@ -8,7 +8,7 @@ public class Main {
         System.out.println("Digite a meta do faturamento anual: ");
         double metaAnual = sc.nextDouble();
 
-        // Recebe o faturamento real da empresa no último ano
+        // Recebe o sfaturamento real da empresa no último ano
         System.out.println("Digite o faturamento real dos últimos 12 meses: ");
         double faturamentoReal = sc.nextDouble();
 
