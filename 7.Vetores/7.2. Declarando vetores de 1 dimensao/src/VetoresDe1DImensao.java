@@ -4,7 +4,7 @@ public class VetoresDe1DImensao {
     public static void main(String[] args) {
         // Em vetores conseguimos guardar varios valores de um mesmo tipo.
         //Iremos montar um cardapio de cardapio, como exemplo.
-        //O usuário escolhe os sabores de cardapio.
+        //o usuário escolhe os sabores de cardapio.
 
         //primeiro vetor
         String[] cardapio = new String[]{"Calabresa", "Atum", "Presunto", "Quatro Queijos"};
